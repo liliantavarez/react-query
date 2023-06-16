@@ -1,6 +1,5 @@
 import axios from "axios";
 import { useQuery, useMutation, useQueryClient } from "react-query";
-
 import "./App.css";
 
 function App() {
